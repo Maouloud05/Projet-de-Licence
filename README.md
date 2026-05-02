@@ -21,4 +21,4 @@ AdCheck est une solution hybride (Web/Mobile) conçue pour évaluer le niveau de
 - [ ] Tests et déploiement
 
 ---
-*Réalisé par [Ton Nom] — Licence Informatique — 2026*
+*Réalisé par [Mawlout Mboup]— Licence Informatique — 2026*
